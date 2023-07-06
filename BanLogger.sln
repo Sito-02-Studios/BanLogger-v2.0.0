@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanLogger", "BanLogger.csproj", "{F4E7AB28-FA50-46ED-9A6F-8503FD43CA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E7AB28-FA50-46ED-9A6F-8503FD43CA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E7AB28-FA50-46ED-9A6F-8503FD43CA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E7AB28-FA50-46ED-9A6F-8503FD43CA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E7AB28-FA50-46ED-9A6F-8503FD43CA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC97CB0-D17A-4147-A41D-19EE89ADB359}
+	EndGlobalSection
+EndGlobal
