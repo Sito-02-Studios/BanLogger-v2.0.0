@@ -35,7 +35,7 @@ If you don't have your own Steam API Key you will have to create a new one:
 
 ## Installation
 
-I always recommend downloading the file from official plugin [releases url](https://github.com/Jesus-QC/BanLogger/releases/latest/).
+I always recommend downloading the file from official plugin [releases url](https://github.com/Sito-02-Studios/BanLogger-v2.0.0/releases).
 
 However in linux you can install it via commands too so it would be something like this:
 
